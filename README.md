@@ -1,4 +1,4 @@
-#Customer Behavior Analysis Dashboard
+# Customer Behavior Analysis Dashboard
 
 📖**Project Overview**
 This project analyzes customer purchasing behavior to identify business trends, customer segments, and sales performance using SQL, Python, PostgreSQL, and Power BI.
